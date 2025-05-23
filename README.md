@@ -5,11 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/demianrybock)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:drybock@gmail.com)
 
-Certified GIS Professional (GISP) with 15+ years of experience designing and implementing enterprise spatial data infrastructures. I specialize in combining technical geospatial knowledge with effective communication to help organizations unlock the full potential of location intelligence.
+Certified GIS Professional (GISP) with 20+ years of experience designing and implementing enterprise spatial data infrastructures. I specialize in combining technical geospatial knowledge with effective communication to help organizations unlock the full potential of location intelligence.
 
 ## 🌍 What I Do
 
-I'm the founder of **Aspect Local, LLC**, where I focus on:
+I'm the founder of **Aspect Local**, where I focus on:
 
 - Implementing AI-driven spatial analytics and cloud-based GIS architectures
 - Leveraging generative AI to create intuitive user-centered geospatial interfaces
